@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Hi everyone, I'm Nestor, a full stack developer with 5+ years of experience in web and mobile projects.<br><br>Here are some of the technologies I'm skilled in:<br><br>• HTML, CSS, JS/TS<br>• React, React Native, CLI, Expo<br>• Next.js<br>• MUI<br>• Node.js, Express.js<br>• Redux/Toolkit<br>• MySql and MongoDB<br>• Firebase, Cloud Firerstore, Firebase Realtime database<br>• MVC, MVP, MVVM<br>• Python (FastAPI, Django, Pydantic, SQLAlchemy, Pandas)<br><br>The various types of mobile apps I have worked on:<br><br>✅ Audio/Video Calling<br>✅ Social Networking<br>✅ Chat/Messaging<br>✅ Payment Systems<br>✅ Map and gps tracking<br>✅ News/Magazine<br>✅ Audio/Video Streaming<br>✅ Entertainment<br><br>Thanks for checking my profile. Let's build a great products together.
 
